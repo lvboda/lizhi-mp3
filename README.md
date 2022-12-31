@@ -108,9 +108,15 @@ curl https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@main/install.sh | sh
 如有侵权，随时联系删除
 
 ## 其他
+**李志官网**：~~[http://www.lizhizhuangbi.com](http://www.lizhizhuangbi.com)~~ （现已停止运行，可访问[https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com](https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com)）
+
+**李志邮箱**：[nihao@lizhizhuangbi.com](mailto:nihao@lizhizhuangbi.com)
+
 本项目所有曲目均采用 `320K/bps`、`mp3` 格式进行编码，文件大小普遍在 `10M` 左右，如果需要更小的资源请参考[批量压缩脚本](./compress.sh)进行 `128K/bps` 重新编码
 
 > 注意：执行压缩脚本前请确保机器上已安装 [FFmpeg](https://ffmpeg.org/download.html)
+
+如果你有更好的资源或者问题，欢迎提交 issues 进行交流
 
 ## License
 
