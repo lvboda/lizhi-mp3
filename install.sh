@@ -94,8 +94,9 @@ songs=(
     在每一条伤心的应天大街上/死人.mp3
 )
 
-for(( i=0;i<${#songs[@]};i++)) do
-wget -P ${songs[i]%/*} $cdn${songs[i]};
-done;
+for((i=0;i<${#songs[@]};i++))
+do
+wget -P ${songs[i]%/*} $cdn${songs[i]}
+done
 
 echo "下载脚本执行完成"
