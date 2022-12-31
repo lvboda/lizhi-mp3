@@ -108,7 +108,7 @@ curl https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@main/install.sh | sh
 如有侵权，随时联系删除
 
 ## 其他
-**李志官网**：~~[http://www.lizhizhuangbi.com](http://www.lizhizhuangbi.com)~~ （现已停止运行，可访问[https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com](https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com)）
+**李志官网**：~~[http://www.lizhizhuangbi.com](http://www.lizhizhuangbi.com)~~ （现已停运，可访问[https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com](https://web.archive.org/web/20110715023458/http://www.lizhizhuangbi.com)）
 
 **李志邮箱**：[nihao@lizhizhuangbi.com](mailto:nihao@lizhizhuangbi.com)
 
