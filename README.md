@@ -102,9 +102,6 @@ curl https://testingcf.jsdelivr.net/gh/lvboda/lizhi-mp3@main/install.sh | sh
 - [彩色派对.mp3](https://github.com/lvboda/lizhi-mp3/raw/main/publish/在每一条伤心的应天大街上/彩色派对.mp3)
 - [死人.mp3](https://github.com/lvboda/lizhi-mp3/raw/main/publish/在每一条伤心的应天大街上/死人.mp3)
 
-
-[test](./publish/1701/不多.mp3)
-
 ## 版权
 版权归于李志先生及其团队所有，本人仅收集整理并免费分享，并未商用
 
